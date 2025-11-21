@@ -1,5 +1,4 @@
 import { ChevronLeft } from "lucide-react";
-import { ImageWithFallback } from "./figma/ImageWithFallback";
 
 interface SidebarProps {
   workSchedule: string[];

@@ -1,5 +1,4 @@
 import { ArrowLeft, Heart, MapPin, Calendar } from "lucide-react";
-import astronautImage from "figma:asset/afeb6b015bbe95a10590d4c0184e12ad1c61e178.png";
 
 interface JobDetailsProps {
   jobId: number;
